@@ -1,0 +1,22 @@
+{
+  "name": "ug-districts",
+  "version": "1.0.0",
+  "description": "View all districts in Uganda and respective subcounties",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test ug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmosWels/ug-districts.git"
+  },
+  "keywords": [
+    "ug-districts"
+  ],
+  "author": "Welike Amos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmosWels/ug-districts/issues"
+  },
+  "homepage": "https://github.com/AmosWels/ug-districts#readme"
+}
