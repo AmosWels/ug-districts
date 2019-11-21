@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "asciiname": "Kampala",
+            "population": 1353189,
+            "location": "https://www.google.com/maps/?q=0.31628,32.58219"
+        },
+        {
+            "asciiname": "Gulu",
+            "population": 146858,
+            "location": "https://www.google.com/maps/?q=2.77457,32.29899"
+        },
+        {
+            "asciiname": "Lira",
+            "population": 119323,
+            "location": "https://www.google.com/maps/?q=2.2499,32.89985"
+        },
+        {
+            "asciiname": "Mbarara",
+            "population": 97500,
+            "location": "https://www.google.com/maps/?q=-0.60467,30.64851"
+        },
+        {
+            "asciiname": "Jinja",
+            "population": 93061,
+            "location": "https://www.google.com/maps/?q=0.43902,33.20317"
+        },
+        {
+            "asciiname": "Bwizibwera",
+            "population": 79157,
+            "location": "https://www.google.com/maps/?q=-0.59167,30.62861"
+        },
+        {
+            "asciiname": "Mbale",
+            "population": 76493,
+            "location": "https://www.google.com/maps/?q=1.08209,34.17503"
+        },
+        {
+            "asciiname": "Mukono",
+            "population": 67290,
+            "location": "https://www.google.com/maps/?q=0.35333,32.75528"
+        },
+        {
+            "asciiname": "Kasese",
+            "population": 67269,
+            "location": "https://www.google.com/maps/?q=0.18333,30.08333"
+        },
+        {
+            "asciiname": "Masaka",
+            "population": 65373,
+            "location": "https://www.google.com/maps/?q=-0.33379,31.73409"
+        },
+        {
+            "asciiname": "Entebbe",
+            "population": 62969,
+            "location": "https://www.google.com/maps/?q=0.05621,32.47949"
+        },
+        {
+            "asciiname": "Njeru",
+            "population": 61952,
+            "location": "https://www.google.com/maps/?q=0.44166,33.17917"
+        },
+        {
+            "asciiname": "Kitgum",
+            "population": 56891,
+            "location": "https://www.google.com/maps/?q=3.27833,32.88667"
+        },
+        {
+            "asciiname": "Soroti",
+            "population": 56400,
+            "location": "https://www.google.com/maps/?q=1.71464,33.61113"
+        },
+        {
+            "asciiname": "Arua",
+            "population": 55585,
+            "location": "https://www.google.com/maps/?q=3.02013,30.91105"
+        },
+        {
+            "asciiname": "Iganga",
+            "population": 45024,
+            "location": "https://www.google.com/maps/?q=0.60917,33.46861"
+        },
+        {
+            "asciiname": "Kabale",
+            "population": 43500,
+            "location": "https://www.google.com/maps/?q=-1.24857,29.98993"
+        },
+        {
+            "asciiname": "Busia",
+            "population": 43200,
+            "location": "https://www.google.com/maps/?q=0.46588,34.09221"
+        },
+        {
+            "asciiname": "Fort Portal",
+            "population": 42670,
+            "location": "https://www.google.com/maps/?q=0.66174,30.2748"
+        },
+        {
+            "asciiname": "Mityana",
+            "population": 41131,
+            "location": "https://www.google.com/maps/?q=0.4175,32.02278"
+        },
+        {
+            "asciiname": "Tororo",
+            "population": 40400,
+            "location": "https://www.google.com/maps/?q=0.69299,34.18085"
+        },
+        {
+            "asciiname": "Hoima",
+            "population": 39625,
+            "location": "https://www.google.com/maps/?q=1.43314,31.35241"
+        },
+        {
+            "asciiname": "Lugazi",
+            "population": 35036,
+            "location": "https://www.google.com/maps/?q=0.36788,32.9376"
+        },
+        {
+            "asciiname": "Masindi",
+            "population": 31486,
+            "location": "https://www.google.com/maps/?q=1.67444,31.715"
+        },
+        {
+            "asciiname": "Ibanda",
+            "population": 31000,
+            "location": "https://www.google.com/maps/?q=-0.13398,30.49616"
+        },
+        {
+            "asciiname": "Pallisa",
+            "population": 30745,
+            "location": "https://www.google.com/maps/?q=1.145,33.70944"
+        },
+        {
+            "asciiname": "Nyachera",
+            "population": 30509,
+            "location": "https://www.google.com/maps/?q=-0.9,30.41667"
+        },
+        {
+            "asciiname": "Nebbi",
+            "population": 30354,
+            "location": "https://www.google.com/maps/?q=2.47826,31.08893"
+        },
+        {
+            "asciiname": "Adjumani",
+            "population": 28700,
+            "location": "https://www.google.com/maps/?q=3.37786,31.7909"
+        },
+        {
+            "asciiname": "Paidha",
+            "population": 28348,
+            "location": "https://www.google.com/maps/?q=2.41669,30.98551"
+        },
+        {
+            "asciiname": "Luwero",
+            "population": 28338,
+            "location": "https://www.google.com/maps/?q=0.84917,32.47306"
+        },
+        {
+            "asciiname": "Wobulenzi",
+            "population": 24415,
+            "location": "https://www.google.com/maps/?q=0.72833,32.51222"
+        },
+        {
+            "asciiname": "Yumbe",
+            "population": 24300,
+            "location": "https://www.google.com/maps/?q=3.46506,31.24689"
+        },
+        {
+            "asciiname": "Namasuba",
+            "population": 22507,
+            "location": "https://www.google.com/maps/?q=0.68944,32.42139"
+        },
+        {
+            "asciiname": "Bugiri",
+            "population": 22500,
+            "location": "https://www.google.com/maps/?q=0.57139,33.74167"
+        },
+        {
+            "asciiname": "Kayunga",
+            "population": 21704,
+            "location": "https://www.google.com/maps/?q=0.7025,32.88861"
+        },
+        {
+            "asciiname": "Wakiso",
+            "population": 20530,
+            "location": "https://www.google.com/maps/?q=0.40444,32.45944"
+        },
+        {
+            "asciiname": "Mubende",
+            "population": 18936,
+            "location": "https://www.google.com/maps/?q=0.55849,31.39489"
+        },
+        {
+            "asciiname": "Moyo",
+            "population": 18800,
+            "location": "https://www.google.com/maps/?q=3.66088,31.72474"
+        },
+        {
+            "asciiname": "Kotido",
+            "population": 18800,
+            "location": "https://www.google.com/maps/?q=2.98056,34.13306"
+        },
+        {
+            "asciiname": "Kyenjojo",
+            "population": 18600,
+            "location": "https://www.google.com/maps/?q=0.63278,30.62139"
+        },
+        {
+            "asciiname": "Kireka",
+            "population": 17947,
+            "location": "https://www.google.com/maps/?q=0.3475,32.64917"
+        },
+        {
+            "asciiname": "Kamwenge",
+            "population": 17169,
+            "location": "https://www.google.com/maps/?q=0.1866,30.45393"
+        },
+        {
+            "asciiname": "Bundibugyo",
+            "population": 16919,
+            "location": "https://www.google.com/maps/?q=0.71117,30.06469"
+        },
+        {
+            "asciiname": "Ntungamo",
+            "population": 16915,
+            "location": "https://www.google.com/maps/?q=-0.88333,29.65"
+        },
+        {
+            "asciiname": "Busembatia",
+            "population": 15889,
+            "location": "https://www.google.com/maps/?q=0.77725,33.62364"
+        },
+        {
+            "asciiname": "Ntungamo",
+            "population": 15300,
+            "location": "https://www.google.com/maps/?q=-0.87944,30.26417"
+        },
+        {
+            "asciiname": "Buwenge",
+            "population": 15130,
+            "location": "https://www.google.com/maps/?q=0.64996,33.17128"
+        },
+        {
+            "asciiname": "Kanungu",
+            "population": 14600,
+            "location": "https://www.google.com/maps/?q=-0.9575,29.78972"
+        },
+        {
+            "asciiname": "Kiboga",
+            "population": 14512,
+            "location": "https://www.google.com/maps/?q=0.91611,31.77417"
+        },
+        {
+            "asciiname": "Sironko",
+            "population": 14000,
+            "location": "https://www.google.com/maps/?q=1.23132,34.24773"
+        },
+        {
+            "asciiname": "Rukungiri",
+            "population": 14000,
+            "location": "https://www.google.com/maps/?q=-0.84111,29.94194"
+        },
+        {
+            "asciiname": "Kiruhura",
+            "population": 14000,
+            "location": "https://www.google.com/maps/?q=-0.19664,30.84446"
+        },
+        {
+            "asciiname": "Kamuli",
+            "population": 12764,
+            "location": "https://www.google.com/maps/?q=0.94722,33.11972"
+        },
+        {
+            "asciiname": "Kisoro",
+            "population": 12400,
+            "location": "https://www.google.com/maps/?q=-1.28538,29.68497"
+        },
+        {
+            "asciiname": "Apac",
+            "population": 11776,
+            "location": "https://www.google.com/maps/?q=1.97556,32.53861"
+        },
+        {
+            "asciiname": "Pader",
+            "population": 11600,
+            "location": "https://www.google.com/maps/?q=3.05,33.21667"
+        },
+        {
+            "asciiname": "Bugembe",
+            "population": 11598,
+            "location": "https://www.google.com/maps/?q=0.48213,33.24065"
+        },
+        {
+            "asciiname": "Mayuge",
+            "population": 11503,
+            "location": "https://www.google.com/maps/?q=0.45972,33.48028"
+        },
+        {
+            "asciiname": "Bweyogerere",
+            "population": 11473,
+            "location": "https://www.google.com/maps/?q=0.35773,32.66332"
+        },
+        {
+            "asciiname": "Kumi",
+            "population": 11400,
+            "location": "https://www.google.com/maps/?q=1.46083,33.93611"
+        },
+        {
+            "asciiname": "Kapchorwa",
+            "population": 11300,
+            "location": "https://www.google.com/maps/?q=1.40096,34.45038"
+        },
+        {
+            "asciiname": "Pader Palwo",
+            "population": 11152,
+            "location": "https://www.google.com/maps/?q=2.80056,33.135"
+        },
+        {
+            "asciiname": "Mpigi",
+            "population": 11082,
+            "location": "https://www.google.com/maps/?q=0.225,32.31361"
+        },
+        {
+            "asciiname": "Moroto",
+            "population": 10300,
+            "location": "https://www.google.com/maps/?q=2.53453,34.66659"
+        },
+        {
+            "asciiname": "Kyotera",
+            "population": 8472,
+            "location": "https://www.google.com/maps/?q=-0.61556,31.5175"
+        },
+        {
+            "asciiname": "Lyantonde",
+            "population": 8039,
+            "location": "https://www.google.com/maps/?q=-0.40306,31.15722"
+        },
+        {
+            "asciiname": "Kilembe",
+            "population": 7914,
+            "location": "https://www.google.com/maps/?q=0.19835,30.01302"
+        },
+        {
+            "asciiname": "Masindi Port",
+            "population": 7828,
+            "location": "https://www.google.com/maps/?q=1.69606,32.08608"
+        },
+        {
+            "asciiname": "Byakabanda",
+            "population": 7608,
+            "location": "https://www.google.com/maps/?q=-0.7425,31.40639"
+        },
+        {
+            "asciiname": "Kajansi",
+            "population": 7530,
+            "location": "https://www.google.com/maps/?q=0.21548,32.53453"
+        },
+        {
+            "asciiname": "Nakasongola",
+            "population": 6921,
+            "location": "https://www.google.com/maps/?q=1.30889,32.45639"
+        },
+        {
+            "asciiname": "Kigorobya",
+            "population": 5420,
+            "location": "https://www.google.com/maps/?q=1.6162,31.3089"
+        },
+        {
+            "asciiname": "Kibale",
+            "population": 5200,
+            "location": "https://www.google.com/maps/?q=0.8,31.06667"
+        },
+        {
+            "asciiname": "Margherita",
+            "population": 5109,
+            "location": "https://www.google.com/maps/?q=0.41861,29.89111"
+        },
+        {
+            "asciiname": "Kasaali",
+            "population": 0,
+            "location": "https://www.google.com/maps/?q=-0.61667,31.55"
+        }
+    ]
+}
