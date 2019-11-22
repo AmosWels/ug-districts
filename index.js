@@ -22,18 +22,12 @@ getDistrict = (district) => {
  *
  * */
 getDistricts =()=>{
-    var myDistricts = new Object();
-    var dataSet = []
-    myArray.forEach(element => {
-        myDistricts.name = element.asciiname
-        myDistricts.location = element.location
-        myDistricts.population = element.population
-        dataSet.push(myDistricts) 
-    });
+    dataSet = []
+    if (myArray && myArray.length>0){
+        return myArray
+    }
     return dataSet;
 }
-
-console.log(getDistricts())
 
 module.exports = {
     getDistrict,
