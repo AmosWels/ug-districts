@@ -30,7 +30,10 @@ getDistricts =()=>{
         myDistricts.population = element.population
         dataSet.push(myDistricts) 
     });
+    return dataSet;
 }
+
+console.log(getDistricts())
 
 module.exports = {
     getDistrict,
