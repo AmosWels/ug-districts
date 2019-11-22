@@ -1,2 +1,3 @@
 # ug-districts
-An NPM package that shows all districts and sub counties in Uganda.
+An NPM package that show districts and their population size in Uganda. 
+

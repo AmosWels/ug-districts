@@ -10,3 +10,7 @@ getDistrict = (nameKey) => {
             }
     }
 }
+
+module.exports = {
+    getDistrict
+}

@@ -1,5 +1,5 @@
 {
-  "name": "ug-districts",
+  "name": "ug_districts_sizes",
   "version": "1.0.1",
   "description": "An NPM package that shows all districts and sub counties in Uganda.",
   "main": "index.js",
