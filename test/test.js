@@ -14,12 +14,7 @@ describe('getDistricts --> get Districts details test suite',()=>{
     it('it should return all districts in Uganda in an array format',()=>{
         assert.typeOf(getDistricts(), 'array');
     })
-
-    xit('it should return an empty array if there are no listed districts in Uganda',()=>{
-        getDistricts == [];
-        console.log('tests', getDistricts)
-        expect(getDistricts.to.be.array());
-    })
+    
 });
 
 describe('getDistrict --> get District test suite',()=>{

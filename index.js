@@ -30,7 +30,6 @@ getDistricts =()=>{
     if (all_districts && all_districts.length>0){
         return all_districts
     }
-    // return [];
 }
 
 module.exports = {
