@@ -3,32 +3,44 @@
 # ug-districts
 An NPM package that show districts and their respective population size and location coordinates in Uganda. 
 # Usage
-Install ug_districts using `yarn add ug-districts-sizes` 
+Install ug_districts using 
+```
+yarn add ug-districts-sizes
+```
 ### or 
-`npm install ug-districts-sizes`
+```
+npm install ug-districts-sizes
+```
 
-## Import the getDistrict function from ug-district-sizes package as shown below;
-
-`const {getDistrict, getDistricts} = require('ug-districts-sizes');`
+## Import both functions
+Import the getDistrict function from ug-district-sizes package as shown below;
+```
+const {getDistrict, getDistricts} = require('ug-districts-sizes');
+```
 
 ### or
-`import { getDistrict, getDistricts} from 'ug-districts-sizes';`
+```
+import { getDistrict, getDistricts} from 'ug-districts-sizes';
+```
 
-### Use the package using the sample below.
-#### getDistrict Usage 
+#### getDistrict() 
 
-`const {getDistrict, getDistricts} = require('ug-districts-sizes')`
+```
+const {getDistrict, getDistricts} = require('ug-districts-sizes')
 
-`const district = () => {` 
-    `console.log(getDistrict('Mbale').location);`
-`}`
-#### getDistricts Usage
-`const {getDistrict, getDistricts} = require('ug-districts-sizes')`
+const district = () => {
+    console.log(getDistrict('Mbale').location);
+}
+```
+#### getDistricts
+```
+const {getDistrict, getDistricts} = require('ug-districts-sizes')
 
-`const getDistricts = () => {`
-        `getDistricts.map((response)=>`
-    `console.log(response.name))`
-`}`
+const getDistricts = () => {
+        getDistricts.map((response)=>`
+    console.log(response.name))`
+}
+```
 
 ### Testing
 The app uses Istanbul for tests coverage. Instanbul instruments your ES5 and ES2015+ JavaScript code with line counters, so that you can track how well your unit-tests exercise your codebase. Check out [Instanbul](https://istanbul.js.org/) for more details.
