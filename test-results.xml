@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.002" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-11-29T08:43:54" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="getDistricts --&gt; get District details test suite" timestamp="2019-11-29T08:43:54" tests="1" file="/Users/amoswelike/projects/ug-districts/tests/tests.js" failures="1" time="0.002">
+    <testcase name="getDistricts --&gt; get District details test suite it should return all districts in Uganda" time="0.002" classname="it should return all districts in Uganda">
+      <failure message="expected 76 to equal &apos;76&apos;" type="AssertionError"><![CDATA[AssertionError: expected 76 to equal '76'
+    at Context.it (tests/tests.js:10:42)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
