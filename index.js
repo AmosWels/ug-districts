@@ -1,5 +1,5 @@
 const districts = require('./data.json');
-const myArray = districts.data;
+const all_districts = districts.data;
 
 /** @function
  * @name getDistrict
@@ -8,12 +8,17 @@ const myArray = districts.data;
  *
  * */
 getDistrict = (district) => {
-    for (var i=0; i < myArray.length; i++) {
-            if (myArray[i].asciiname = district) {
-                return myArray[i];
-            } else{
-                return `No district with name ${district} found`
-            }
+    if(typeof(district)=='undefined' | typeof(district)!='string' ){
+        return `Invalid district value`
+    }
+    const matchDistrict = all_districts.some( value => value.asciiname.toLowerCase() === district.toLowerCase());
+    if (!matchDistrict){
+        return `No district with name ${district} found in Uganda`
+    }
+    for (var i=0; i < all_districts.length; i++) {
+        if (all_districts[i].asciiname.toLowerCase() === district.toLowerCase()) {
+                return all_districts[i];
+        } 
     }
 }
 
@@ -22,11 +27,10 @@ getDistrict = (district) => {
  *
  * */
 getDistricts =()=>{
-    dataSet = []
-    if (myArray && myArray.length>0){
-        return myArray
+    if (all_districts && all_districts.length>0){
+        return all_districts
     }
-    return dataSet;
+    // return [];
 }
 
 module.exports = {

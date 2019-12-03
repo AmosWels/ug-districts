@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AmosWels/ug-districts.svg?branch=develop)](https://travis-ci.org/AmosWels/ug-districts) [![Coverage Status](https://coveralls.io/repos/github/AmosWels/ug-districts/badge.svg?branch=develop)](https://coveralls.io/github/AmosWels/ug-districts?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/b55d5bb1640beee809db/maintainability)](https://codeclimate.com/github/AmosWels/ug-districts/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/b55d5bb1640beee809db/test_coverage)](https://codeclimate.com/github/AmosWels/ug-districts/test_coverage)
+
 # ug-districts
 An NPM package that show districts and their respective population size and location coordinates in Uganda. 
 # Usage
@@ -28,7 +30,8 @@ Install ug_districts using `yarn add ug-districts-sizes`
     `console.log(response.name))`
 `}`
 
-
+### Testing
+The app uses Istanbul for tests coverage. Instanbul instruments your ES5 and ES2015+ JavaScript code with line counters, so that you can track how well your unit-tests exercise your codebase. Check out [Instanbul](https://istanbul.js.org/) for more details.
 
 
 
