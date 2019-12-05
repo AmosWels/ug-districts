@@ -31,7 +31,7 @@ getDistricts =()=>{
         return all_districts
     }
 }
-
+console.log(getDistrict('Mbale'))
 module.exports = {
     getDistrict,
     getDistricts
