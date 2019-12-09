@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha",
     "start": "node_modules/.bin/nodemon index.js --exec babel-node --",
-    "coverage": "nyc npm run test"
+    "coverage": "nyc npm run test && nyc report --reporter=text-lcov | coveralls"
   }, 
   "repository": {
     "type": "git",
