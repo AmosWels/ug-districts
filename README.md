@@ -3,7 +3,7 @@
 # ug-districts
 An NPM package that show districts and their respective population size and location coordinates in Uganda. 
 # Usage
-Install ug_districts using 
+Install ug_districts using the command below
 ```
 yarn add ug-districts-sizes
 ```
